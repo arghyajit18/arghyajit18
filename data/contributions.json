@@ -1,42 +1,7 @@
 {
   "username": "arghyajit18",
-  "fetched_at": "2026-08-15T06:57:30.796700Z",
+  "fetched_at": "2026-08-16T06:58:57.735181Z",
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-15",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-16",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-17",
       "count": 0,
@@ -1855,6 +1820,11 @@
     {
       "date": "2026-08-15",
       "count": 0,
+      "level": 2
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0,
       "level": 0
     }
   ],
@@ -1863,7 +1833,7 @@
     "current_streak": 0,
     "longest_streak": 0,
     "best_day": {
-      "date": "2025-08-15",
+      "date": "2025-08-17",
       "count": 0,
       "level": 0
     },
