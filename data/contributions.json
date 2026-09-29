@@ -1,6 +1,6 @@
 {
   "username": "arghyajit18",
-  "fetched_at": "2026-09-28T13:53:01.021445Z",
+  "fetched_at": "2026-09-29T12:51:21.301753Z",
   "days": [
     {
       "date": "2025-09-28",
@@ -1830,6 +1830,11 @@
     {
       "date": "2026-09-28",
       "count": 0,
+      "level": 2
+    },
+    {
+      "date": "2026-09-29",
+      "count": 0,
       "level": 0
     }
   ],
@@ -1838,7 +1843,7 @@
     "current_streak": 0,
     "longest_streak": 0,
     "best_day": {
-      "date": "2025-09-28",
+      "date": "2025-09-29",
       "count": 0,
       "level": 0
     },
